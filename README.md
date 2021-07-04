@@ -1,4 +1,4 @@
-# GradCam_Reimplementation
+# Reimplementation of Grad-CAM and Grad-CAM++ and extension over audio data
 
 In this project we replicated the algorithms presented in [*Grad-CAM:
 Visual Explanations from Deep Networks via Gradient-based Localization*](https://arxiv.org/pdf/1610.02391.pdf) and [*Grad-CAM++: Improved Visual Explanations for Deep Convolutional Networks*](https://arxiv.org/pdf/1710.11063.pdf). Further extensions and experiments were done. 
